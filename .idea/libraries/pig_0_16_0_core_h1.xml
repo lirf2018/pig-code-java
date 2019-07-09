@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="pig-0.16.0-core-h1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/pig-0.16.0-core-h1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/pig-0.16.0-core-h2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

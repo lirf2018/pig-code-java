@@ -1,0 +1,48 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="pig-code-java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pig_code_java_jar</output-path>
+    <root id="archive" name="pig-code-java.jar">
+      <element id="module-output" name="pig-code-java" />
+      <element id="extracted-dir" path="E:/maven/Repositories/org/springframework/spring-aop/4.2.3.RELEASE/spring-aop-4.2.3.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/org/springframework/spring-beans/4.2.3.RELEASE/spring-beans-4.2.3.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/hadoop-core-1.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/com/alibaba/fastjson/1.2.54/fastjson-1.2.54.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/org/springframework/spring-core/4.2.3.RELEASE/spring-core-4.2.3.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/org/jboss/logging/jboss-logging-annotations/1.2.0.Beta1/jboss-logging-annotations-1.2.0.Beta1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/org/hibernate/hibernate-core/4.3.11.Final/hibernate-core-4.3.11.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/org/jboss/logging/jboss-logging/3.1.3.GA/jboss-logging-3.1.3.GA.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/org/hibernate/hibernate-entitymanager/4.3.11.Final/hibernate-entitymanager-4.3.11.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.0.0.Final/jboss-transaction-api_1.2_spec-1.0.0.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/org/springframework/data/spring-data-commons/1.11.1.RELEASE/spring-data-commons-1.11.1.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/org/springframework/spring-test/4.2.3.RELEASE/spring-test-4.2.3.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/log4j/log4j/1.2.17/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/mysql/mysql-connector-java/5.1.37/mysql-connector-java-5.1.37.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/org/aspectj/aspectjrt/1.8.7/aspectjrt-1.8.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/org/springframework/spring-jdbc/4.2.3.RELEASE/spring-jdbc-4.2.3.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/org/springframework/spring-tx/4.2.3.RELEASE/spring-tx-4.2.3.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/joda-time/joda-time/2.10.1/joda-time-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/pig-0.16.0-core-h1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/pig-0.16.0-core-h2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/org/slf4j/slf4j-api/1.7.13/slf4j-api-1.7.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/org/springframework/data/spring-data-jpa/1.9.1.RELEASE/spring-data-jpa-1.9.1.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/junit/junit/4.12/junit-4.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/commons-dbcp/commons-dbcp/1.4/commons-dbcp-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/org/hibernate/common/hibernate-commons-annotations/4.0.5.Final/hibernate-commons-annotations-4.0.5.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/org/springframework/spring-context/4.2.3.RELEASE/spring-context-4.2.3.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/org/jboss/jandex/1.1.0.Final/jandex-1.1.0.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/org/slf4j/jcl-over-slf4j/1.7.13/jcl-over-slf4j-1.7.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/org/springframework/spring-orm/4.2.3.RELEASE/spring-orm-4.2.3.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/aopalliance/aopalliance/1.0/aopalliance-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/commons-pool/commons-pool/1.5.4/commons-pool-1.5.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/antlr/antlr/2.7.7/antlr-2.7.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven/Repositories/org/springframework/spring-expression/4.2.3.RELEASE/spring-expression-4.2.3.RELEASE.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
